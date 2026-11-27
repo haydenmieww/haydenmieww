@@ -1,16 +1,15 @@
-## Hi there 👋
+<img src="hexova-lockup.svg" alt="Hexova" width="260">
 
-<!--
-**haydenmieww/haydenmieww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Websites and web systems for small businesses, designed and built in Kuching, Malaysia.
 
-Here are some ideas to get you started:
+I'm Hayden Miew. I handle every project myself, from the first email to launch day, and clients keep the code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I build**
+- Business websites and product catalogues, in English and Chinese
+- Booking, ordering and internal systems for small teams
+- Monthly care: updates, backups and small changes
+
+**How I build**
+Static-first sites with plain HTML, CSS and JavaScript, deployed on Cloudflare Pages. Fast to load, cheap to host, easy to hand over.
+
+[Website](https://pixelmaker.pages.dev) · [Instagram](https://instagram.com/pixelmaker.dev) · [Email](mailto:pixelmaker.dev@gmail.com)
